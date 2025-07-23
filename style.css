@@ -114,6 +114,12 @@ body {
   gap: 2rem;
   padding-bottom: 2rem;
 }
+.call{
+  padding-top: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+
+}
 
 .footer i {
   font-size: 1.5rem;
